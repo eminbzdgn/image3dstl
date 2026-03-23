@@ -1,12 +1,10 @@
-# -----------------------------
-# KÜTÜPHANELER
-# -----------------------------
+
 from PIL import Image
 import numpy as np
 from stl import mesh
 
 # -----------------------------
-# KULLANICI AYARLARI (SİTEDEKİ GİBİ)
+# Path
 # -----------------------------
 IMAGE_PATH = "aaaa.png"
 OUTPUT_STL = "resim2.stl"
